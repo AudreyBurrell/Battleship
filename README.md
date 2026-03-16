@@ -13,6 +13,7 @@ A web application where the user can play battleship against a computer. Users c
 * HTML, CSS, React
 
 ### How I used AI
+* Getting the board to show up
 
 ## Contact
 * **Portfolio:** AudreyBurrell.github.io
