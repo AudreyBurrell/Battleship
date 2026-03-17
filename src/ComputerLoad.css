@@ -1,0 +1,10 @@
+@keyframes float {
+    0%   { transform: rotate(-10deg); }
+    50%  { transform: rotate(10deg); }
+    100% { transform: rotate(-10deg); }
+}
+
+img {
+    width: 50px !important;
+    animation: float 2s ease-in-out infinite;
+}

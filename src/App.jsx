@@ -6,7 +6,7 @@ import './App.css'
 //ex: import functionName from './page'
 import Login from './Login';
 import SetBoard from './SetBoard';
-import PlayGame from './Game';
+import ComputerLoad from './ComputerLoad';
 
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Login />}/>
           <Route path="/set-board" element={<SetBoard />} />
-          <Route path="/play-game" element={<PlayGame />} />
+          <Route path="/computer-load" element={<ComputerLoad />} />
         </Routes>
       </Router>
     </div>
