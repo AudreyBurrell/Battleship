@@ -16,7 +16,7 @@ A web application where the user can play battleship against a computer. Users c
 ### How I used AI
 * Getting the board to show up
 * Validating user ship placement
-* The ship animation for the computer loading page
+* The ship animation for the computer loading page and the random ship placing logic
 
 ## Contact
 * **Portfolio:** AudreyBurrell.github.io

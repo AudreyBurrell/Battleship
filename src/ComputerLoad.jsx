@@ -68,6 +68,7 @@ function ComputerLoad() {
             sessionStorage.setItem('ship2Computer', JSON.stringify(ship2));
 
             //NAVIGATE TO NEW GAME
+            navigate('/play-game');
 
         }, 2000)
     }, []);
